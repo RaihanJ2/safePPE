@@ -18,7 +18,7 @@ export default function Sidebar(){
         <Link to="/monitoring" className="flex items-center gap-3 mb-6 hover:opacity-90 transition-opacity">
           <div className="w-10 h-10 bg-yellow-400 rounded-md flex items-center justify-center text-white font-bold">O</div>
           <div>
-            <div className="text-lg font-semibold">Oniex</div>
+            <div className="text-lg font-semibold">SafePPE</div>
             <div className="text-xs text-gray-400">Endpoint Security</div>
           </div>
         </Link>

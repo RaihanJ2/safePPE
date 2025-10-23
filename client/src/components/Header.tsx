@@ -2,7 +2,7 @@ export default function Header(){
   return (
     <header className="flex items-center justify-between">
       <div>
-        <h1 className="text-3xl font-bold text-gray-900">Oniex Dashboard</h1>
+        <h1 className="text-3xl font-bold text-gray-900">SafePPE Dashboard</h1>
         <p className="text-sm text-gray-500 mt-1">Realtime PPE monitoring • Live</p>
       </div>
 
